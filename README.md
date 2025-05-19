@@ -1,4 +1,4 @@
-# Spce Robotics Paper Index
+# Space Robotics Paper Index
 This repository lists papers on space robotics presented at major Robotics and Computer Vision conferences. 
 
 ## International Conference on Robotics & Automation (ICRA)
