@@ -12,3 +12,5 @@ This repository lists papers on space robotics presented at major robotics and c
 ## Robotics Science and Systems (RSS)
 
 - [Los Angeles 2025](./RSS/2025.md)
+
+> 💡 Don't see a particular conference and want to add you own event? Open an issue with the details. 
