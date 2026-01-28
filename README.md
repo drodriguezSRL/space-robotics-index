@@ -3,6 +3,7 @@ This repository lists papers on space robotics presented at major robotics and c
 
 ## International Conference on Robotics & Automation (ICRA)
 
+- [Vienna, 2026](./ICRA/2026.md)
 - [Atlanta 2025](./ICRA/2025.md)
 
 ## International Conference on Intelligent Robots & Systems (IROS)
